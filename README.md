@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 [Portfolio](https://himanshu-lilhore.github.io/Portfolio-Website/)
+- 👨‍💻 [Portfolio](https://himanshu-lilhore-portfolio.vercel.app/)
 
 - 👯 I’m looking to collaborate on Full stack projects.
 
