@@ -7,7 +7,7 @@
 
 - 🔭 Hi there, I’m a **Full stack developer**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **three.js** & **DevOps**
 
 - 👨‍💻 [Portfolio](https://himanshu-lilhore-portfolio.vercel.app/)
 
